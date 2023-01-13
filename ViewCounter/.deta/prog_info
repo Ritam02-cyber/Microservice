@@ -1,0 +1,1 @@
+{"id":"72e685e1-4780-4b15-9a63-b0308abdc207","space":47634,"runtime":"nodejs14.x","name":"ViewCounter","path":"suwox2","project":"d0dxoxer","account":"144798365827","region":"ap-south-1","deps":["fs@^0.0.1-security","mongoose@^6.8.3","nodemon@^2.0.20","dotenv@^16.0.3","express@^4.18.2"],"envs":null,"public":true,"log_level":"debug","cron":""}
